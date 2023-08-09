@@ -35,7 +35,7 @@ And then, you should git clone from [mmdetection3d](https://github.com/open-mmla
 python tools/create_data.py nuscenes --root-path ./data/nuscenes --out-dir ./data/nuscenes --extra-tag nuscenes
 ```
 
-## Pretrained ckpts download
+## 🌵Pretrained ckpts download
 
 According to [Official Git](https://github.com/WangYueFt/detr3d), you should download pretrained weights from [Pretrained weights](https://drive.google.com/drive/folders/1h5bDg7Oh9hKvkFL-dRhu5-ahrEp2lRNN) and set them to - pretrained/
 
